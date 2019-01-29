@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+}
+
+.Author{
+  border-bottom: 1px solid black;
+  text-align: left;
+  padding-left: 20rem;
+  margin-bottom: 6rem;
+}
